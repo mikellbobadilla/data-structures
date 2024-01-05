@@ -1,5 +1,5 @@
-#ifndef person_h
-#define person_h
+#ifndef _PERSON_H
+#define _PERSON_H
 
 typedef struct Person {
     char name[50];
